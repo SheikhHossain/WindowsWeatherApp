@@ -5,7 +5,7 @@ When the project runs you are greated with a interface asking to enter a city na
 
 ![Intro page](IMG1.PNG)
 
-Once you enter the name of the city you want details about you are given the weather information about the place. 
+Once you enter the name of the city you want, details are given about the weather information about the place. 
 
 For exaple we look at the weather information in winnipeg.
 
