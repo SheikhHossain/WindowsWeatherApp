@@ -1,0 +1,14 @@
+C:\Users\sadit\source\repos\Weather Application\Weather Application\obj\Debug\Weather Application.csproj.AssemblyReference.cache
+C:\Users\sadit\source\repos\Weather Application\Weather Application\obj\Debug\Weather Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\sadit\source\repos\Weather Application\Weather Application\obj\Debug\Weather_Application.Form1.resources
+C:\Users\sadit\source\repos\Weather Application\Weather Application\obj\Debug\Weather_Application.Properties.Resources.resources
+C:\Users\sadit\source\repos\Weather Application\Weather Application\obj\Debug\Weather Application.csproj.GenerateResource.cache
+C:\Users\sadit\source\repos\Weather Application\Weather Application\obj\Debug\Weather Application.csproj.CoreCompileInputs.cache
+C:\Users\sadit\source\repos\Weather Application\Weather Application\bin\Debug\Weather Application.exe.config
+C:\Users\sadit\source\repos\Weather Application\Weather Application\bin\Debug\Weather Application.exe
+C:\Users\sadit\source\repos\Weather Application\Weather Application\bin\Debug\Weather Application.pdb
+C:\Users\sadit\source\repos\Weather Application\Weather Application\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sadit\source\repos\Weather Application\Weather Application\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sadit\source\repos\Weather Application\Weather Application\obj\Debug\Weather Application.csproj.CopyComplete
+C:\Users\sadit\source\repos\Weather Application\Weather Application\obj\Debug\Weather Application.exe
+C:\Users\sadit\source\repos\Weather Application\Weather Application\obj\Debug\Weather Application.pdb
